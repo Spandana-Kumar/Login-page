@@ -1,0 +1,36 @@
+.formValidation .has-error .help-block {
+    color: #d06868;
+    font-size: 12px;
+    line-height: 1.1;
+    font-style: italic;
+}
+
+ .border-radius{
+    border-radius: 1rem;
+} 
+
+.banner-color{
+    background-color: #594bda;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    
+    height: 5rem;
+}
+
+.banner1-color{
+    background-color: #594bda;
+    padding: 0.5rem 8.4rem 0.5rem 8.4rem;
+   
+}
+
+.count{
+   
+    max-width: 60rem;
+}
+
+.justify{
+    padding-left: 4rem;
+}
+.text{
+    padding-left: 2rem;
+}
